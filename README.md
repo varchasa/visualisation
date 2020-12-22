@@ -8,3 +8,5 @@
 - boxen plots
 - joint plots
 - swarm plots
+- violin plots
+- faceted plotting
