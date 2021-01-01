@@ -10,3 +10,11 @@
 - swarm plots
 - violin plots
 - faceted plotting
+- bar plots
+- heat map
+- line plot
+- pair plot
+- pie chart
+- scatter plot
+- stacked bar plot
+- 
